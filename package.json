@@ -3,7 +3,7 @@
   "contributors": [
     "Gavriel Fleischer <flocsy@gmail.com>"
   ],
-  "name": "json-diff",
+  "name": "@betit/json-diff",
   "description": "JSON diff",
   "version": "0.5.4",
   "homepage": "https://github.com/andreyvit/json-diff",
